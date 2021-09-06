@@ -68,6 +68,17 @@ Staffs are the overall registered school personnel who are behind the operations
 Each staff has their own unique staff number for easy distinction.
 
 ### Notifications and Mailbox
+
+Notifications are the instances that gives off notice or information about important occurances.
+Notifications which is located on the upper right of the page with the bell logo will a number of unseen new occurences. The notification includes incoming events of the school, News that are deemed significant to the students by the school, and the Mailbox.
+
+Mailbox is a private exchange system which lets registered users send and recieve information to and from a single or multiple users.
+
 ### Events and News
+
+Events are school related affairs or occasions that the school staffs or students facilitate and are authorized by the head of the school.
+
+News are significant informations that are authorized by the school and published within the school paper. 
+
 ### Fees
 ### Roles
