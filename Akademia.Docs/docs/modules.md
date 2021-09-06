@@ -7,6 +7,9 @@ Students are persons who are primary enrolled and are already admitted in a scho
 A student category shows Regular or Irregular based on the subjects they are currently enrolled in. To understand the distinction between regualr and Irregular, refer to Workflows. Regular Vs. Irregular.
 
 ### Programs Manager
+
+Program Managers are persons who are assigned by the school to facilitate the subjects that will be available to the students.
+
 ### Subject
 
 Subjects are the basic units that make up the whole program. Subjects are used to build the curriculum. Subjects are also the basis of section definitions.
@@ -59,6 +62,11 @@ Each teacher is part of an academic department which distinguishes the subjects 
 Each teacher has their given schedules. Schedules and subjects are assigned to the teachers, their assigned subjects are based on their teaching specialties.
 
 ### Staff
+
+Staffs are the overall registered school personnel who are behind the operations of the school. There are different positions that are assigned by the school such as but not limited to Teacher, Administrator, Registrar, etc.
+
+Each staff has their own unique staff number for easy distinction.
+
 ### Notifications and Mailbox
 ### Events and News
 ### Fees
