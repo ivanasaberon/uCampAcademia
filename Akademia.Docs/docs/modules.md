@@ -1,6 +1,11 @@
 ## List of Modules
 
 ### Student
+
+Students are persons who are primary enrolled and are already admitted in a school program or course. Each student has its own unique student number for easy distinction. 
+
+A student category shows Regular or Irregular based on the subjects they are currently enrolled in. To understand the distinction between regualr and Irregular, refer to Workflows. Regular Vs. Irregular.
+
 ### Programs Manager
 ### Subject
 
