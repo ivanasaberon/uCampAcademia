@@ -1,4 +1,6 @@
 ## Dashboard
+ - Dashboard shows visual representation of data that is significant to the user. The dashboard can be edited vie drag and drop based on the user's liking.
+
 ### Current number of students (Regular Period)
 ##### Regular vs. Irregular
 
@@ -9,6 +11,8 @@ Regular students, or those who are on time and have no failing subjects, are usu
 Irregular students, who due to various reasons, cannot follow the prescribed curriculum on time cannot be assigned block sections anymore. Due to this, their individual schedules would have to be set manually.
 
 ##### Enrolled per year level + Total
+ 
+ This shows a visual diagram of the number of registered students enrolled per year level and the total students enrolled in the schoo.
 
 ##### Enrolled vs. unpaid
 
