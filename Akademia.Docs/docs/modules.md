@@ -9,6 +9,8 @@ Subjects are the basic units that make up the whole program. Subjects are used t
 ### Curriculum
 
 
+Curriculum is the academic content of a specific school course or program. Within this are relevant subjects that are deemed pre-requisites for the student's chosen course or program.
+
 ### Section
 
 Sections are instances of subjects. Each section is a unique combination of a subject, teacher, timeslot, and room. No two sections of the same subject can have the same teacher, the same timeslot nor use the same room.
