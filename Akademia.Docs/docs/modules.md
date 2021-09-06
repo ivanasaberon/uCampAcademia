@@ -81,4 +81,10 @@ Events are school related affairs or occasions that the school staffs or student
 News are significant informations that are authorized by the school and published within the school paper. 
 
 ### Fees
+
+Academic fees are the amounts of expenses that is based on the schools programs and courses.The fees are charged on the students based on their enrolled programs. It includes admission fees, practical fees, exam fees, laboratory fees, Library fees, tuition fees and expenses from other materials that are provided by the school.
+
 ### Roles
+
+Roles are assigned labels given to the users that differntiates their function in a given system. 
+Roles distinguishes what a user type can access and what actions they are limited to.
