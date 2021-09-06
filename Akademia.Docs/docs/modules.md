@@ -2,7 +2,7 @@
 
 ### Student
 
-Students are persons who are primary enrolled and are already admitted in a school program or course. Each student has its own unique student number for easy distinction. 
+Students are persons who are primary enrolled and are already admitted in a school program or course. Each student has their own unique student number for easy distinction. 
 
 A student category shows Regular or Irregular based on the subjects they are currently enrolled in. To understand the distinction between regualr and Irregular, refer to Workflows. Regular Vs. Irregular.
 
@@ -51,6 +51,12 @@ Outlined below are steps to create a **block section**.
 
 
 ### Teacher
+
+Teachers are registered personnel of the school who facilitate student learning for a specific subject.Each teacher has their own unique staff number for easy distinction. 
+
+Each teacher is part of an academic department which distinguishes the subjects the can teach for optimal student learning. An academic department divides a school faculty with its assigned academic discipline.
+
+Each teacher has their given schedules. Schedules and subjects are assigned to the teachers, their assigned subjects are based on their teaching specialties.
 
 ### Staff
 ### Notifications and Mailbox
