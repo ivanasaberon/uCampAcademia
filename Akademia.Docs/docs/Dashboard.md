@@ -17,18 +17,19 @@ Irregular students, who due to various reasons, cannot follow the prescribed cur
 ##### Enrolled vs. unpaid
 
 ### Students
-
-##### Updcoming Exams and Acad Requirements
+- Can be viewed only by role type under Student
+##### Upcoming Exams and Acad Requirements
 ##### GWA, Year Standing based on units (Regular Period)
 ##### Temporary Schedule (Enrolment Period)
 ##### Class Schedule (Regular Period)
 
 ### Teachers
- 
- ##### Class Schedula
+ - Can be viewed only by role type under Teacher 
+ ##### Class Schedule
  ##### Leaves
  ##### Loading
 
  ### All
+ - Can be viewed by all user role types
  ##### Upcoming Events
  ##### Staff Celebrations Dates
