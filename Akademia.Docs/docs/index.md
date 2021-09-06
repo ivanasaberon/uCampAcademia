@@ -5,7 +5,7 @@
 
 1. [Dashboard](Dashboard.md)
 2. [Modules](modules.md)
-3. [Workflows]()
+3. [Workflows](workflows.md)
 
 
 ### Dashboard
