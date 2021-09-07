@@ -4,7 +4,7 @@
 
 Students are persons who are primary enrolled and are already admitted in a school program or course. Each student has their own unique student number for easy distinction. 
 
-A student category shows Regular or Irregular based on the subjects they are currently enrolled in. To understand the distinction between regualr and Irregular, refer to Workflows. Regular Vs. Irregular.
+A student category shows Regular or Irregular based on the subjects they are currently enrolled in. To understand the distinction between [Regular and Irregular](Dashboard.md#reg).
 
 ### Programs Manager
 
@@ -20,12 +20,16 @@ Subjects are the basic units that make up the whole program. Subjects are used t
 Curriculum is the academic content of a specific school course or program. Within this are relevant subjects that are deemed pre-requisites for the student's chosen course or program.
 
 ### Section
-
+<a name="blocksections"></a>
 Sections are instances of subjects. Each section is a unique combination of a subject, teacher, timeslot, and room. No two sections of the same subject can have the same teacher, the same timeslot nor use the same room.
-
+ 
 Sections are assigned to students during the pre-enrollment phase, when the list of subjects and schedules are finalized. 
+ 
 
-Block sections are groups of sections that are defined to assist in section assignment. Block sections are defined prior to pre-enrollment. Instead of having to assign subjects and sections to students, a block section may be used to assign a preselected set of sections to students.
+** Block sections ** are groups of sections that are defined to assist in section assignment. Block sections are defined prior to pre-enrollment. Instead of having to assign subjects and sections to students, a block section may be used to assign a preselected set of sections to students.
+
+
+
 
 #### Section Creation
 
