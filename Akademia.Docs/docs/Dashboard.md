@@ -32,4 +32,7 @@ Irregular students, who due to various reasons, cannot follow the prescribed cur
  ### All
  - Can be viewed by all user role types
  ##### Upcoming Events
+
+This section shows five latest upcoming school related events that have been authorized by the school. It shows the name , the date, and the duration of the event.
+
  ##### Staff Celebrations Dates
